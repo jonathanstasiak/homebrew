@@ -3,7 +3,7 @@ require 'formula'
 class Elasticsearch < Formula
   url 'http://nodeload.github.com/elasticsearch/elasticsearch/tarball/master'
   homepage 'http://www.elasticsearch.com'
-  md5 'c575b7f6664e9e88ce271d5e81182f66'
+  md5 'aa38cd9c3f9ffbef21b1a8f6b5263615'
 
   def install
     # remove windows files
